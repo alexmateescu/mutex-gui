@@ -7,7 +7,7 @@ TEMPLATE = app
 
 QT += qml quick widgets
 
-WALLET_ROOT=$$PWD/monero
+WALLET_ROOT=$$PWD/mutex
 
 CONFIG += c++11 link_pkgconfig
 packagesExist(libpcsclite) {
@@ -439,7 +439,7 @@ OTHER_FILES += \
 
 DISTFILES += \
     notes.txt \
-    monero/src/wallet/CMakeLists.txt \
+    mutex/src/wallet/CMakeLists.txt \
     components/MobileHeader.qml
 
 
