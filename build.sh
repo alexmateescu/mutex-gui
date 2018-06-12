@@ -63,8 +63,8 @@ fi
 source ./utils.sh
 pushd $(pwd)
 ROOT_DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
-MONERO_DIR=monero
-MONEROD_EXEC=monerod
+MONERO_DIR=mutex
+MONEROD_EXEC=mutexd
 
 MAKE='make'
 if [[ $platform == *bsd* ]]; then
