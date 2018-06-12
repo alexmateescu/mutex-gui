@@ -165,11 +165,11 @@ bool DaemonManager::stopWatcher(NetworkType::Type nettype) const
             qDebug() << "Daemon still running.  " << counter;
             if(counter >= 5) {
                 qDebug() << "Killing it! ";
-#ifdef Q_OS_WIN
-                QProcess::execute("taskkill /F /IM monerod.exe");
-#else
-                QProcess::execute("pkill monerod");
-#endif
+                #ifdef Q_OS_WIN
+                                QProcess::execute("taskkill /F /IM mutexd.exe");
+                #else
+                                QProcess::execute("pkill mutexd");
+                #endif
             }
 
         } else
@@ -300,9 +300,9 @@ DaemonManager::DaemonManager(QObject *parent)
 
     // Platform depetent path to monerod
 #ifdef Q_OS_WIN
-    m_monerod = QApplication::applicationDirPath() + "/monerod.exe";
+    m_monerod = QApplication::applicationDirPath() + "/mutexd.exe";
 #elif defined(Q_OS_UNIX)
-    m_monerod = QApplication::applicationDirPath() + "/monerod";
+    m_monerod = QApplication::applicationDirPath() + "/mutexd";
 #endif
 
     if (m_monerod.length() == 0) {
