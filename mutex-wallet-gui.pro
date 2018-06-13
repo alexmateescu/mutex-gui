@@ -244,6 +244,7 @@ win32 {
         -liconv \
         -lssl \
         -lcrypto \
+        -lwinscard \
         -Wl,-Bdynamic \
         -lws2_32 \
         -lwsock32 \
