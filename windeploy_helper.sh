@@ -17,7 +17,9 @@ fi
 
 if [[ "$BUILD_TYPE" == "Release" ]]; then
 	echo "Release build"
-	ICU_FILES=(libicudt58.dll libicuin58.dll libicuio58.dll libicutu58.dll libicuuc58.dll)
+#	ICU_FILES=(libicudt58.dll libicuin58.dll libicuio58.dll libicutu58.dll libicuuc58.dll)
+	ICU_FILES=(libicudt61.dll libicuin61.dll libicuio61.dll libicutu61.dll libicuuc61.dll)
+
 else
 	echo "Debug build"
 	ICU_FILES=(libicudtd58.dll libicuind58.dll libicuiod58.dll libicutud58.dll libicuucd58.dll)
