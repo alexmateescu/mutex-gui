@@ -43,7 +43,7 @@ Rectangle {
     signal sweepUnmixableClicked()
 
     color: "transparent"
-    property string startLinkText: qsTr("<style type='text/css'>a {text-decoration: none; color: #FF6C3C; font-size: 14px;}</style><font size='2'> (</font><a href='#'>Start daemon</a><font size='2'>)</font>") + translationManager.emptyString
+    property string startLinkText: qsTr("<style type='text/css'>a {text-decoration: none; color: #E24BFF; font-size: 14px;}</style><font size='2'> (</font><a href='#'>Start daemon</a><font size='2'>)</font>") + translationManager.emptyString
     property bool showAdvanced: false
 
     Clipboard { id: clipboard }
@@ -231,8 +231,8 @@ Rectangle {
                   Layout.fillWidth: true
                   id: priorityDropdown
                   Layout.topMargin: 6
-                  shadowReleasedColor: "#FF4304"
-                  shadowPressedColor: "#B32D00"
+                  shadowReleasedColor: "#d100f9"
+                  shadowPressedColor: "#8700A1"
                   releasedColor: "#363636"
                   pressedColor: "#202020"
               }

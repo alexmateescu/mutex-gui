@@ -244,8 +244,8 @@ Rectangle {
                     dropdownHeight: 28 * scaleRatio
 
                     Layout.fillWidth: true
-                    shadowReleasedColor: "#FF4304"
-                    shadowPressedColor: "#B32D00"
+                    shadowReleasedColor: "#d100f9"
+                    shadowPressedColor: "#8700A1"
                     releasedColor: "#404040"
                     pressedColor: "#202020"
                     colorBorder: "#404040"

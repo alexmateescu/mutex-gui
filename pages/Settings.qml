@@ -118,10 +118,10 @@ Rectangle {
 
             StandardButton {
                 id: rescanWalletbutton
-                shadowReleasedColor: "#FF4304"
-                shadowPressedColor: "#B32D00"
-                releasedColor: "#FF6C3C"
-                pressedColor: "#FF4304"
+                shadowReleasedColor: "#d100f9"
+                shadowPressedColor: "#8700A1"
+                releasedColor: "#d100f9"
+                pressedColor: "#d100f9"
                 text: qsTr("Rescan wallet cache") + translationManager.emptyString
                 onClicked: {
                     // Show confirmation dialog
@@ -564,8 +564,8 @@ Rectangle {
                         appWindow.persistentSettings.logLevel = currentIndex;
                     }
                     Layout.fillWidth: true
-                    shadowReleasedColor: "#FF4304"
-                    shadowPressedColor: "#B32D00"
+                    shadowReleasedColor: "#d100f9"
+                    shadowPressedColor: "#8700A1"
                     releasedColor: "#363636"
                     pressedColor: "#202020"
                 }
@@ -676,7 +676,7 @@ Rectangle {
                 textFormat: Text.RichText
                 font.pixelSize: 14
                 font.bold: true
-                property var style: "<style type='text/css'>a {cursor:pointer;text-decoration: none; color: #FF6C3C}</style>"
+                property var style: "<style type='text/css'>a {cursor:pointer;text-decoration: none; color: #d100f9}</style>"
                 text: (currentWallet ? currentWallet.walletCreationHeight : "") + style + qsTr(" <a href='#'> (Click to change)</a>") + translationManager.emptyString
                 onLinkActivated: {
                     inputDialog.labelText = qsTr("Set a new restore height:") + translationManager.emptyString;
