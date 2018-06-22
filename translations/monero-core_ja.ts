@@ -2204,8 +2204,8 @@ Spend Proofの場合、宛先アドレスを指定する必要はありません
     </message>
     <message>
         <location filename="../wizard/WizardMain.qml" line="367"/>
-        <source>USE MONERO</source>
-        <translation>Moneroを使う</translation>
+        <source>USE MUTEX</source>
+        <translation>Mutexを使う</translation>
     </message>
     <message>
         <location filename="../wizard/WizardMain.qml" line="380"/>

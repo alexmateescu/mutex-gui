@@ -2203,8 +2203,8 @@ I fallet med spenderbevis behöver du inte ange mottagaradressen.</translation>
     </message>
     <message>
         <location filename="../wizard/WizardMain.qml" line="367"/>
-        <source>USE MONERO</source>
-        <translation>ANVÄND MONERO</translation>
+        <source>USE MUTEX</source>
+        <translation>ANVÄND MUTEX</translation>
     </message>
     <message>
         <location filename="../wizard/WizardMain.qml" line="380"/>

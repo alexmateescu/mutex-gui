@@ -2203,8 +2203,8 @@ Para pagamentos que você realizou, é possível pegar uma prova de pagamento qu
     </message>
     <message>
         <location filename="../wizard/WizardMain.qml" line="367"/>
-        <source>USE MONERO</source>
-        <translation>USAR O MONERO</translation>
+        <source>USE MUTEX</source>
+        <translation>USAR O MUTEX</translation>
     </message>
     <message>
         <location filename="../wizard/WizardMain.qml" line="380"/>

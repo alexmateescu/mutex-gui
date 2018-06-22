@@ -2204,8 +2204,8 @@ Pour le cas d'une preuve de dépense, il n'est pas nécessaire de spécifier l'a
     </message>
     <message>
         <location filename="../wizard/WizardMain.qml" line="367"/>
-        <source>USE MONERO</source>
-        <translation>UTILISER MONERO</translation>
+        <source>USE MUTEX</source>
+        <translation>UTILISER MUTEX</translation>
     </message>
     <message>
         <location filename="../wizard/WizardMain.qml" line="380"/>

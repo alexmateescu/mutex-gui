@@ -2204,8 +2204,8 @@ Für den Fall mit Sendenachweis muss die Empfängeradresse nicht angegeben werde
     </message>
     <message>
         <location filename="../wizard/WizardMain.qml" line="367"/>
-        <source>USE MONERO</source>
-        <translation>BENUTZE MONERO</translation>
+        <source>USE MUTEX</source>
+        <translation>BENUTZE MUTEX</translation>
     </message>
     <message>
         <location filename="../wizard/WizardMain.qml" line="380"/>

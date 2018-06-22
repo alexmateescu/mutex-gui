@@ -2213,8 +2213,8 @@ Para el caso de pagos salientes, puedes obtener una &quot;Prueba de pago&quot; q
     </message>
     <message>
         <location filename="../wizard/WizardMain.qml" line="367"/>
-        <source>USE MONERO</source>
-        <translation>USE MONERO</translation>
+        <source>USE MUTEX</source>
+        <translation>USE MUTEX</translation>
     </message>
     <message>
         <location filename="../wizard/WizardMain.qml" line="380"/>

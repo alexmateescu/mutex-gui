@@ -2197,8 +2197,8 @@ Harcama Kanıtı ile ilgili davada, alıcı adresini belirtmeniz gerekmez. </tra
     </message>
     <message>
         <location filename="../wizard/WizardMain.qml" line="367"/>
-        <source>USE MONERO</source>
-        <translation>MONERO KULLANIN</translation>
+        <source>USE MUTEX</source>
+        <translation>MUTEX KULLANIN</translation>
     </message>
     <message>
         <location filename="../wizard/WizardMain.qml" line="380"/>

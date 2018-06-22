@@ -2194,8 +2194,8 @@ In caso di prova di spesa, non serve specificare l&apos;indirizzo del ricevente.
     </message>
     <message>
         <location filename="../wizard/WizardMain.qml" line="367"/>
-        <source>USE MONERO</source>
-        <translation>USA MONERO</translation>
+        <source>USE MUTEX</source>
+        <translation>USA MUTEX</translation>
     </message>
     <message>
         <location filename="../wizard/WizardMain.qml" line="380"/>

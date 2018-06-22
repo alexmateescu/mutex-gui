@@ -2202,8 +2202,8 @@ U slučaju sa Dokazom Troška, ne morate navesti adresu primaoca.</translation>
     </message>
     <message>
         <location filename="../wizard/WizardMain.qml" line="367"/>
-        <source>USE MONERO</source>
-        <translation>KORISTI MONERO</translation>
+        <source>USE MUTEX</source>
+        <translation>KORISTI MUTEX</translation>
     </message>
     <message>
         <location filename="../wizard/WizardMain.qml" line="380"/>

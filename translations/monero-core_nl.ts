@@ -2215,7 +2215,7 @@ Voor een betalingsbewijs hoeft u het adres van de ontvanger niet op te geven.</t
     </message>
     <message>
         <location filename="../wizard/WizardMain.qml" line="367"/>
-        <source>USE MONERO</source>
+        <source>USE MUTEX</source>
         <translation>GEBRUIK MONERO</translation>
     </message>
     <message>

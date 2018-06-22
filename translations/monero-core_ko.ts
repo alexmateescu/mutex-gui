@@ -2186,7 +2186,7 @@ For the case with Spend Proof, you don&apos;t need to specify the recipient addr
     </message>
     <message>
         <location filename="../wizard/WizardMain.qml" line="367"/>
-        <source>USE MONERO</source>
+        <source>USE MUTEX</source>
         <translation>모네로 사용하기</translation>
     </message>
     <message>

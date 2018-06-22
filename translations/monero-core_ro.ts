@@ -2203,8 +2203,8 @@ Pentru cazurile cu Dovadă de plată, nu e necesară adresa destinatarului.</tra
     </message>
     <message>
         <location filename="../wizard/WizardMain.qml" line="367"/>
-        <source>USE MONERO</source>
-        <translation>FOLOSEȘTE MONERO</translation>
+        <source>USE MUTEX</source>
+        <translation>FOLOSEȘTE MUTEX</translation>
     </message>
     <message>
         <location filename="../wizard/WizardMain.qml" line="380"/>

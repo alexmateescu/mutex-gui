@@ -2209,8 +2209,8 @@ V případě odchozích plateb můžete získat doklad o výdajích, který dokl
     </message>
     <message>
         <location filename="../wizard/WizardMain.qml" line="367"/>
-        <source>USE MONERO</source>
-        <translation>POUŽÍVEJTE MONERO</translation>
+        <source>USE MUTEX</source>
+        <translation>POUŽÍVEJTE MUTEX</translation>
     </message>
     <message>
         <location filename="../wizard/WizardMain.qml" line="380"/>
