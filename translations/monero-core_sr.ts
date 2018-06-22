@@ -1840,8 +1840,8 @@ Ringsize: </translation>
     </message>
     <message>
         <location filename="../pages/Transfer.qml" line="622"/>
-        <source>Monero sent successfully</source>
-        <translation>Monero uspešno poslat</translation>
+        <source>Mutex sent successfully</source>
+        <translation>Mutex uspešno poslat</translation>
     </message>
     <message>
         <location filename="../pages/Transfer.qml" line="661"/>
@@ -2308,8 +2308,8 @@ U slučaju sa Dokazom Troška, ne morate navesti adresu primaoca.</translation>
     <name>WizardOptions</name>
     <message>
         <location filename="../wizard/WizardOptions.qml" line="75"/>
-        <source>Welcome to Monero!</source>
-        <translation>Monero Vam želi dobrodošlicu!</translation>
+        <source>Welcome to Mutex!</source>
+        <translation>Mutex Vam želi dobrodošlicu!</translation>
     </message>
     <message>
         <location filename="../wizard/WizardOptions.qml" line="86"/>
@@ -2383,8 +2383,8 @@ U slučaju sa Dokazom Troška, ne morate navesti adresu primaoca.</translation>
     <name>WizardWelcome</name>
     <message>
         <location filename="../wizard/WizardWelcome.qml" line="73"/>
-        <source>Welcome to Monero!</source>
-        <translation>Monero Vam želi dobrodošlicu!</translation>
+        <source>Welcome to Mutex!</source>
+        <translation>Mutex Vam želi dobrodošlicu!</translation>
     </message>
     <message>
         <location filename="../wizard/WizardWelcome.qml" line="83"/>
@@ -2579,8 +2579,8 @@ Indeks adrese za potrošnju: </translation>
     </message>
     <message>
         <location filename="../main.qml" line="788"/>
-        <source>Monero sent successfully: %1 transaction(s) </source>
-        <translation>Monero uspešno poslat: %1 transakcija </translation>
+        <source>Mutex sent successfully: %1 transaction(s) </source>
+        <translation>Mutex uspešno poslat: %1 transakcija </translation>
     </message>
     <message>
         <location filename="../main.qml" line="818"/>

@@ -1662,8 +1662,8 @@ La vecchia cache del portafoglio verrà rinominata e potrà essere ripristinata 
     </message>
     <message>
         <location filename="../pages/Transfer.qml" line="622"/>
-        <source>Monero sent successfully</source>
-        <translation>Moneroj inviati con successo</translation>
+        <source>Mutex sent successfully</source>
+        <translation>Mutexj inviati con successo</translation>
     </message>
     <message>
         <location filename="../pages/Transfer.qml" line="661"/>
@@ -2300,8 +2300,8 @@ In caso di prova di spesa, non serve specificare l&apos;indirizzo del ricevente.
     <name>WizardOptions</name>
     <message>
         <location filename="../wizard/WizardOptions.qml" line="75"/>
-        <source>Welcome to Monero!</source>
-        <translation>Benvenuto in Monero!</translation>
+        <source>Welcome to Mutex!</source>
+        <translation>Benvenuto in Mutex!</translation>
     </message>
     <message>
         <location filename="../wizard/WizardOptions.qml" line="86"/>
@@ -2375,8 +2375,8 @@ In caso di prova di spesa, non serve specificare l&apos;indirizzo del ricevente.
     <name>WizardWelcome</name>
     <message>
         <location filename="../wizard/WizardWelcome.qml" line="73"/>
-        <source>Welcome to Monero!</source>
-        <translation>Benvenuto in Monero!</translation>
+        <source>Welcome to Mutex!</source>
+        <translation>Benvenuto in Mutex!</translation>
     </message>
     <message>
         <location filename="../wizard/WizardWelcome.qml" line="83"/>
@@ -2700,8 +2700,8 @@ Fee: </source>
     </message>
     <message>
         <location filename="../main.qml" line="788"/>
-        <source>Monero sent successfully: %1 transaction(s) </source>
-		<translation>Moneroj inviati con successo: %1 transazione/i</translation>
+        <source>Mutex sent successfully: %1 transaction(s) </source>
+		<translation>Mutexj inviati con successo: %1 transazione/i</translation>
     </message>
     <message>
         <location filename="../main.qml" line="1245"/>

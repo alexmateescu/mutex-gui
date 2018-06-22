@@ -1719,8 +1719,8 @@ The old wallet cache file will be renamed and can be restored later.
     </message>
     <message>
         <location filename="../pages/Transfer.qml" line="622"/>
-        <source>Monero sent successfully</source>
-        <translation>Moneroの送金に成功しました</translation>
+        <source>Mutex sent successfully</source>
+        <translation>Mutexの送金に成功しました</translation>
     </message>
     <message>
         <location filename="../pages/Transfer.qml" line="676"/>
@@ -2309,8 +2309,8 @@ Spend Proofの場合、宛先アドレスを指定する必要はありません
     <name>WizardOptions</name>
     <message>
         <location filename="../wizard/WizardOptions.qml" line="75"/>
-        <source>Welcome to Monero!</source>
-        <translation>Moneroへようこそ!</translation>
+        <source>Welcome to Mutex!</source>
+        <translation>Mutexへようこそ!</translation>
     </message>
     <message>
         <location filename="../wizard/WizardOptions.qml" line="86"/>
@@ -2384,8 +2384,8 @@ Spend Proofの場合、宛先アドレスを指定する必要はありません
     <name>WizardWelcome</name>
     <message>
         <location filename="../wizard/WizardWelcome.qml" line="73"/>
-        <source>Welcome to Monero!</source>
-        <translation>Moneroへようこそ!</translation>
+        <source>Welcome to Mutex!</source>
+        <translation>Mutexへようこそ!</translation>
     </message>
     <message>
         <location filename="../wizard/WizardWelcome.qml" line="83"/>
@@ -2656,8 +2656,8 @@ Fee: </source>
     </message>
     <message>
         <location filename="../main.qml" line="788"/>
-        <source>Monero sent successfully: %1 transaction(s) </source>
-        <translation>Moneroの送金に成功しました: %1 トランザクション</translation>
+        <source>Mutex sent successfully: %1 transaction(s) </source>
+        <translation>Mutexの送金に成功しました: %1 トランザクション</translation>
     </message>
     <message>
         <location filename="../main.qml" line="818"/>

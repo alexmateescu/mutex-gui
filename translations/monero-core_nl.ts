@@ -1766,8 +1766,8 @@ De naam van het oude cachebestand wordt gewijzigd, zodat het later kan worden he
     </message>
     <message>
         <location filename="../pages/Transfer.qml" line="622"/>
-        <source>Monero sent successfully</source>
-        <translation>Monero is verzonden</translation>
+        <source>Mutex sent successfully</source>
+        <translation>Mutex is verzonden</translation>
     </message>
     <message>
         <location filename="../pages/Transfer.qml" line="676"/>
@@ -2322,8 +2322,8 @@ Voor een betalingsbewijs hoeft u het adres van de ontvanger niet op te geven.</t
     <name>WizardOptions</name>
     <message>
         <location filename="../wizard/WizardOptions.qml" line="75"/>
-        <source>Welcome to Monero!</source>
-        <translation>Welkom bij Monero!</translation>
+        <source>Welcome to Mutex!</source>
+        <translation>Welkom bij Mutex!</translation>
     </message>
     <message>
         <location filename="../wizard/WizardOptions.qml" line="86"/>
@@ -2397,8 +2397,8 @@ Voor een betalingsbewijs hoeft u het adres van de ontvanger niet op te geven.</t
     <name>WizardWelcome</name>
     <message>
         <location filename="../wizard/WizardWelcome.qml" line="73"/>
-        <source>Welcome to Monero!</source>
-        <translation>Welkom bij Monero!</translation>
+        <source>Welcome to Mutex!</source>
+        <translation>Welkom bij Mutex!</translation>
     </message>
     <message>
         <location filename="../wizard/WizardWelcome.qml" line="83"/>
@@ -2629,8 +2629,8 @@ Vergoeding: </translation>
     </message>
     <message>
         <location filename="../main.qml" line="788"/>
-        <source>Monero sent successfully: %1 transaction(s) </source>
-        <translation>Monero is verzonden: %1 transactie(s) </translation>
+        <source>Mutex sent successfully: %1 transaction(s) </source>
+        <translation>Mutex is verzonden: %1 transactie(s) </translation>
     </message>
     <message>
         <location filename="../main.qml" line="818"/>

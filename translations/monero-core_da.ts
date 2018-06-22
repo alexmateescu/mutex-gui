@@ -1737,8 +1737,8 @@ The old wallet cache file will be renamed and can be restored later.
     </message>
     <message>
         <location filename="../pages/Transfer.qml" line="622"/>
-        <source>Monero sent successfully</source>
-        <translation>Monero sendt med succes</translation>
+        <source>Mutex sent successfully</source>
+        <translation>Mutex sendt med succes</translation>
     </message>
     <message>
         <location filename="../pages/Transfer.qml" line="492"/>
@@ -2299,8 +2299,8 @@ For the case of outgoing payments, you can get a &apos;Spend Proof&apos; that pr
     <name>WizardOptions</name>
     <message>
         <location filename="../wizard/WizardOptions.qml" line="75"/>
-        <source>Welcome to Monero!</source>
-        <translation>Velkommen til Monero!</translation>
+        <source>Welcome to Mutex!</source>
+        <translation>Velkommen til Mutex!</translation>
     </message>
     <message>
         <location filename="../wizard/WizardOptions.qml" line="86"/>
@@ -2374,8 +2374,8 @@ For the case of outgoing payments, you can get a &apos;Spend Proof&apos; that pr
     <name>WizardWelcome</name>
     <message>
         <location filename="../wizard/WizardWelcome.qml" line="73"/>
-        <source>Welcome to Monero!</source>
-        <translation>Velkommen til Monero!</translation>
+        <source>Welcome to Mutex!</source>
+        <translation>Velkommen til Mutex!</translation>
     </message>
     <message>
         <location filename="../wizard/WizardWelcome.qml" line="83"/>
@@ -2557,8 +2557,8 @@ Spending address index: </source>
     </message>
     <message>
         <location filename="../main.qml" line="788"/>
-        <source>Monero sent successfully: %1 transaction(s) </source>
-        <translation>Monero sendt med succes: %1 transkation(er)</translation>
+        <source>Mutex sent successfully: %1 transaction(s) </source>
+        <translation>Mutex sendt med succes: %1 transkation(er)</translation>
     </message>
     <message>
         <location filename="../main.qml" line="821"/>

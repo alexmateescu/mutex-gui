@@ -1746,8 +1746,8 @@ Starší soubor mezipaměti peněženky bude přejmenován a později jej lze ob
     </message>
     <message>
         <location filename="../pages/Transfer.qml" line="622"/>
-        <source>Monero sent successfully</source>
-        <translation>Monero úspěšně odesláno</translation>
+        <source>Mutex sent successfully</source>
+        <translation>Mutex úspěšně odesláno</translation>
     </message>
     <message>
         <location filename="../pages/Transfer.qml" line="492"/>
@@ -2315,8 +2315,8 @@ V případě odchozích plateb můžete získat doklad o výdajích, který dokl
     <name>WizardOptions</name>
     <message>
         <location filename="../wizard/WizardOptions.qml" line="75"/>
-        <source>Welcome to Monero!</source>
-        <translation>Vítejte v Monero!</translation>
+        <source>Welcome to Mutex!</source>
+        <translation>Vítejte v Mutex!</translation>
     </message>
     <message>
         <location filename="../wizard/WizardOptions.qml" line="86"/>
@@ -2390,8 +2390,8 @@ V případě odchozích plateb můžete získat doklad o výdajích, který dokl
     <name>WizardWelcome</name>
     <message>
         <location filename="../wizard/WizardWelcome.qml" line="73"/>
-        <source>Welcome to Monero!</source>
-        <translation>Vítejte v Monero!</translation>
+        <source>Welcome to Mutex!</source>
+        <translation>Vítejte v Mutex!</translation>
     </message>
     <message>
         <location filename="../wizard/WizardWelcome.qml" line="83"/>
@@ -2586,8 +2586,8 @@ Index výdajů: </translation>
     </message>
     <message>
         <location filename="../main.qml" line="790"/>
-        <source>Monero sent successfully: %1 transaction(s) </source>
-        <translation>Monero úspěšně odesláno: %1 transakce </translation>
+        <source>Mutex sent successfully: %1 transaction(s) </source>
+        <translation>Mutex úspěšně odesláno: %1 transakce </translation>
     </message>
     <message>
         <location filename="../main.qml" line="820"/>

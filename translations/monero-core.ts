@@ -2104,7 +2104,7 @@ For the case with Spend Proof, you don&apos;t need to specify the recipient addr
     <name>WizardOptions</name>
     <message>
         <location filename="../wizard/WizardOptions.qml" line="74"/>
-        <source>Welcome to Monero!</source>
+        <source>Welcome to Mutex!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2173,7 +2173,7 @@ For the case with Spend Proof, you don&apos;t need to specify the recipient addr
     <name>WizardWelcome</name>
     <message>
         <location filename="../wizard/WizardWelcome.qml" line="73"/>
-        <source>Welcome to Monero!</source>
+        <source>Welcome to Mutex!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>

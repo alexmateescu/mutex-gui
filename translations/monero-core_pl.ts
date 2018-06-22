@@ -1654,8 +1654,8 @@ Poprzednia pamięć podręczna portfela zostanie zapisana pod inną nazwą i mo�
     </message>
     <message>
         <location filename="../pages/Transfer.qml" line="622"/>
-        <source>Monero sent successfully</source>
-        <translation>Pomyślnie wysłano Monero</translation>
+        <source>Mutex sent successfully</source>
+        <translation>Pomyślnie wysłano Mutex</translation>
     </message>
     <message>
         <location filename="../pages/Transfer.qml" line="661"/>
@@ -2310,8 +2310,8 @@ W przypadku &apos;Dowodu wydania&apos; nie musisz podawać adresu odbiorcy.</tra
     <name>WizardOptions</name>
     <message>
         <location filename="../wizard/WizardOptions.qml" line="75"/>
-        <source>Welcome to Monero!</source>
-        <translation>Witaj w świecie Monero!</translation>
+        <source>Welcome to Mutex!</source>
+        <translation>Witaj w świecie Mutex!</translation>
     </message>
     <message>
         <location filename="../wizard/WizardOptions.qml" line="86"/>
@@ -2385,8 +2385,8 @@ W przypadku &apos;Dowodu wydania&apos; nie musisz podawać adresu odbiorcy.</tra
     <name>WizardWelcome</name>
     <message>
         <location filename="../wizard/WizardWelcome.qml" line="73"/>
-        <source>Welcome to Monero!</source>
-        <translation>Witaj w świecie Monero!</translation>
+        <source>Welcome to Mutex!</source>
+        <translation>Witaj w świecie Mutex!</translation>
     </message>
     <message>
         <location filename="../wizard/WizardWelcome.qml" line="83"/>
@@ -2559,8 +2559,8 @@ Indeks adresu do wydawania: </translation>
     </message>
     <message>
         <location filename="../main.qml" line="788"/>
-        <source>Monero sent successfully: %1 transaction(s) </source>
-        <translation>Monero wysłane pomyślnie: %1 transakcji(s) </translation>
+        <source>Mutex sent successfully: %1 transaction(s) </source>
+        <translation>Mutex wysłane pomyślnie: %1 transakcji(s) </translation>
     </message>
     <message>
         <location filename="../main.qml" line="818"/>

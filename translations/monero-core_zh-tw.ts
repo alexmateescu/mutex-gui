@@ -1745,8 +1745,8 @@ The old wallet cache file will be renamed and can be restored later.
     </message>
     <message>
         <location filename="../pages/Transfer.qml" line="622"/>
-        <source>Monero sent successfully</source>
-        <translation>Monero發送成功</translation>
+        <source>Mutex sent successfully</source>
+        <translation>Mutex發送成功</translation>
     </message>
     <message>
         <location filename="../pages/Transfer.qml" line="492"/>
@@ -2309,8 +2309,8 @@ For the case with Spend Proof, you don&apos;t need to specify the recipient addr
     <name>WizardOptions</name>
     <message>
         <location filename="../wizard/WizardOptions.qml" line="75"/>
-        <source>Welcome to Monero!</source>
-        <translation>歡迎使用 Monero！</translation>
+        <source>Welcome to Mutex!</source>
+        <translation>歡迎使用 Mutex！</translation>
     </message>
     <message>
         <location filename="../wizard/WizardOptions.qml" line="86"/>
@@ -2384,8 +2384,8 @@ For the case with Spend Proof, you don&apos;t need to specify the recipient addr
     <name>WizardWelcome</name>
     <message>
         <location filename="../wizard/WizardWelcome.qml" line="73"/>
-        <source>Welcome to Monero!</source>
-        <translation>歡迎使用 Monero！</translation>
+        <source>Welcome to Mutex!</source>
+        <translation>歡迎使用 Mutex！</translation>
     </message>
     <message>
         <location filename="../wizard/WizardWelcome.qml" line="83"/>
@@ -2573,8 +2573,8 @@ Spending address index: </source>
     </message>
     <message>
         <location filename="../main.qml" line="788"/>
-        <source>Monero sent successfully: %1 transaction(s) </source>
-        <translation>Monero發送成功: %1 筆交易</translation>
+        <source>Mutex sent successfully: %1 transaction(s) </source>
+        <translation>Mutex發送成功: %1 筆交易</translation>
     </message>
     <message>
         <location filename="../main.qml" line="818"/>

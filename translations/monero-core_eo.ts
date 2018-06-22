@@ -1762,8 +1762,8 @@ Se vi ne uzas ŝlosilreuzantan Monero-klonon, kiu ne enhavas tiujn sekuraĵojn, 
     </message>
     <message>
         <location filename="../pages/Transfer.qml" line="622"/>
-        <source>Monero sent successfully</source>
-        <translation>Sukcese sendis Moneron</translation>
+        <source>Mutex sent successfully</source>
+        <translation>Sukcese sendis Mutexen</translation>
     </message>
     <message>
         <location filename="../pages/Transfer.qml" line="460"/>
@@ -2306,8 +2306,8 @@ Kaze de Elspezpruvo, vi ne bezonas precizi la ricevantan adreson.</translation>
     <name>WizardOptions</name>
     <message>
         <location filename="../wizard/WizardOptions.qml" line="75"/>
-        <source>Welcome to Monero!</source>
-        <translation>Bonvenon al Monero!</translation>
+        <source>Welcome to Mutex!</source>
+        <translation>Bonvenon al Mutex!</translation>
     </message>
     <message>
         <location filename="../wizard/WizardOptions.qml" line="86"/>
@@ -2381,8 +2381,8 @@ Kaze de Elspezpruvo, vi ne bezonas precizi la ricevantan adreson.</translation>
     <name>WizardWelcome</name>
     <message>
         <location filename="../wizard/WizardWelcome.qml" line="73"/>
-        <source>Welcome to Monero!</source>
-        <translation>Bonvenon al Monero!</translation>
+        <source>Welcome to Mutex!</source>
+        <translation>Bonvenon al Mutex!</translation>
     </message>
     <message>
         <location filename="../wizard/WizardWelcome.qml" line="83"/>
@@ -2686,9 +2686,9 @@ Kaze de Elspezpruvo, vi ne bezonas precizi la ricevantan adreson.</translation>
         <translation>La transakcio estas konservita en la dosiero %1</translation>
     </message>
     <message>
-        <location filename="../main.qml" line="788"/>
-        <source>Monero sent successfully: %1 transaction(s) </source>
-        <translation>Sukcese sendis Moneron: %1 transakcio(j)</translation>
+        <location Mutex="../main.qml" line="788"/>
+        <source>Mutex sent successfully: %1 transaction(s) </source>
+        <translation>Sukcese sendis Mutexen: %1 transakcio(j)</translation>
     </message>
     <message>
         <location filename="../main.qml" line="862"/>

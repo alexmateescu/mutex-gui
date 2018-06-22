@@ -1841,8 +1841,8 @@ Ringstorlek: </translation>
     </message>
     <message>
         <location filename="../pages/Transfer.qml" line="622"/>
-        <source>Monero sent successfully</source>
-        <translation>Monero skickades</translation>
+        <source>Mutex sent successfully</source>
+        <translation>Mutex skickades</translation>
     </message>
     <message>
         <location filename="../pages/Transfer.qml" line="661"/>
@@ -2309,8 +2309,8 @@ I fallet med spenderbevis behöver du inte ange mottagaradressen.</translation>
     <name>WizardOptions</name>
     <message>
         <location filename="../wizard/WizardOptions.qml" line="75"/>
-        <source>Welcome to Monero!</source>
-        <translation>Välkommen till Monero!</translation>
+        <source>Welcome to Mutex!</source>
+        <translation>Välkommen till Mutex!</translation>
     </message>
     <message>
         <location filename="../wizard/WizardOptions.qml" line="86"/>
@@ -2384,8 +2384,8 @@ I fallet med spenderbevis behöver du inte ange mottagaradressen.</translation>
     <name>WizardWelcome</name>
     <message>
         <location filename="../wizard/WizardWelcome.qml" line="73"/>
-        <source>Welcome to Monero!</source>
-        <translation>Välkommen till Monero!</translation>
+        <source>Welcome to Mutex!</source>
+        <translation>Välkommen till Mutex!</translation>
     </message>
     <message>
         <location filename="../wizard/WizardWelcome.qml" line="83"/>
@@ -2574,8 +2574,8 @@ Index för spenderingsadress: </translation>
     </message>
     <message>
         <location filename="../main.qml" line="788"/>
-        <source>Monero sent successfully: %1 transaction(s) </source>
-        <translation>Monero skickades: %1 transaktioner </translation>
+        <source>Mutex sent successfully: %1 transaction(s) </source>
+        <translation>Mutex skickades: %1 transaktioner </translation>
     </message>
     <message>
         <location filename="../main.qml" line="818"/>

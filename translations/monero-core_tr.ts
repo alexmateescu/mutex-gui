@@ -1735,8 +1735,8 @@ Eski cüzdan önbellek dosyası yeniden adlandırılacak ve daha sonra geri yük
     </message>
     <message>
         <location filename="../pages/Transfer.qml" line="622"/>
-        <source>Monero sent successfully</source>
-        <translation>Monero başarı ile gönderildi</translation>
+        <source>Mutex sent successfully</source>
+        <translation>Mutex başarı ile gönderildi</translation>
     </message>
     <message>
         <location filename="../pages/Transfer.qml" line="492"/>
@@ -2303,8 +2303,8 @@ Harcama Kanıtı ile ilgili davada, alıcı adresini belirtmeniz gerekmez. </tra
     <name>WizardOptions</name>
     <message>
         <location filename="../wizard/WizardOptions.qml" line="75"/>
-        <source>Welcome to Monero!</source>
-        <translation>Monero&apos;ya hoşgeldiniz!</translation>
+        <source>Welcome to Mutex!</source>
+        <translation>Mutex&apos;ya hoşgeldiniz!</translation>
     </message>
     <message>
         <location filename="../wizard/WizardOptions.qml" line="86"/>
@@ -2378,7 +2378,7 @@ Harcama Kanıtı ile ilgili davada, alıcı adresini belirtmeniz gerekmez. </tra
     <name>WizardWelcome</name>
     <message>
         <location filename="../wizard/WizardWelcome.qml" line="73"/>
-        <source>Welcome to Monero!</source>
+        <source>Welcome to Mutex!</source>
         <translation>Monero&apos;ya hoşgeldiniz!</translation>
     </message>
     <message>
@@ -2556,8 +2556,8 @@ Spending address index: </source>
     </message>
     <message>
         <location filename="../main.qml" line="788"/>
-        <source>Monero sent successfully: %1 transaction(s) </source>
-        <translation>Monero başarı ile gönderildi: %1 işlem</translation>
+        <source>Mutex sent successfully: %1 transaction(s) </source>
+        <translation>Mutex başarı ile gönderildi: %1 işlem</translation>
     </message>
     <message>
         <location filename="../main.qml" line="818"/>

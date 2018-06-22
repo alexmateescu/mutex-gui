@@ -1873,8 +1873,8 @@ Ringgröße: </translation>
     </message>
     <message>
         <location filename="../pages/Transfer.qml" line="622"/>
-        <source>Monero sent successfully</source>
-        <translation>Monero erfolgreich gesendet</translation>
+        <source>Mutex sent successfully</source>
+        <translation>Mutex erfolgreich gesendet</translation>
     </message>
     <message>
         <location filename="../pages/Transfer.qml" line="661"/>
@@ -2309,8 +2309,8 @@ Für den Fall mit Sendenachweis muss die Empfängeradresse nicht angegeben werde
     <name>WizardOptions</name>
     <message>
         <location filename="../wizard/WizardOptions.qml" line="75"/>
-        <source>Welcome to Monero!</source>
-        <translation>Willkommen bei Monero!</translation>
+        <source>Welcome to Mutex!</source>
+        <translation>Willkommen bei Mutex!</translation>
     </message>
     <message>
         <location filename="../wizard/WizardOptions.qml" line="86"/>
@@ -2384,8 +2384,8 @@ Für den Fall mit Sendenachweis muss die Empfängeradresse nicht angegeben werde
     <name>WizardWelcome</name>
     <message>
         <location filename="../wizard/WizardWelcome.qml" line="73"/>
-        <source>Welcome to Monero!</source>
-        <translation>Willkommen bei Monero!</translation>
+        <source>Welcome to Mutex!</source>
+        <translation>Willkommen bei Mutex!</translation>
     </message>
     <message>
         <location filename="../wizard/WizardWelcome.qml" line="83"/>
@@ -2628,8 +2628,8 @@ Gebühr: </translation>
     </message>
     <message>
         <location filename="../main.qml" line="788"/>
-        <source>Monero sent successfully: %1 transaction(s) </source>
-        <translation>Monero erfolgreich gesendet: %1 Transaktion(en)</translation>
+        <source>Mutex sent successfully: %1 transaction(s) </source>
+        <translation>Mutex erfolgreich gesendet: %1 Transaktion(en)</translation>
     </message>
     <message>
         <location filename="../main.qml" line="818"/>
